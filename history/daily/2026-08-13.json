@@ -1,5 +1,5 @@
 {
   "schema_version": "daily-marker-v1",
-  "captured_at": "2026-08-13T04:29:06.412076+00:00",
+  "captured_at": "2026-08-13T05:08:15.993665+00:00",
   "note": "Hourly snapshots are the source of truth; daily compaction can be expanded without a database."
 }
