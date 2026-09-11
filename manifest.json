@@ -1,6 +1,6 @@
 {
   "schema_version": "cache-v3",
-  "generated_at": "2026-09-11T04:16:24.241779+00:00",
+  "generated_at": "2026-09-11T16:18:52.077643+00:00",
   "refresh_interval": "12h",
   "source": "https://palworldtcg.gg/api/v1",
   "endpoints": [
@@ -14,6 +14,6 @@
   "changed": {
     "cards": 167,
     "sets": 7,
-    "decks": 2222
+    "decks": 2246
   }
 }
